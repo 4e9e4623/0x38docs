@@ -16,3 +16,23 @@ Aviutlの拡張編集プラグインなどから生成したexoファイル内�
 * 次のプログラムがインストールされていること
     * [Visual Studio 2015、2017、および 2019 用Microsoft Visual C++ 再頒布可能パッケージ](https://support.microsoft.com/ja-jp/topic/%E6%9C%80%E6%96%B0%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%81%95%E3%82%8C%E3%82%8B-visual-c-%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-2647da03-1eea-4433-9aff-95f26a218cc0)
         * プログラム実行時に**コンピューターにMSVCP140.dllがないため、プログラムを開始できません**といったエラーが表示された場合のみ、上記のリンクから「Visual Studio 2015、2017 および 2019」内の「vc_redist.x64.exe」をダウンロード＆インストールして下さい
+
+## 連絡先とリンク
+* Twitter
+    * [@4e9e4623](https://twitter.com/4e9e4623)
+    * [@PouchComp](https://twitter.com/PouchComp)  
+* 問い合わせ等のフォーム（返信なし）
+    * 準備中
+* その他の公開物
+    * [コチラ](https://4e9e4623.github.io/docs/)から
+
+## 更新履歴
+* Ver 1.00.0
+    * 初版
+
+## 開発環境とツール
+* IDE
+    * Visual Studio 2019 Community
+* テキストエディタ
+    * notepad.exe
+    * Visual Studio Code
