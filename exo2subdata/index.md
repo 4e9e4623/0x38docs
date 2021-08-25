@@ -135,7 +135,7 @@ exoファイルのパスを指定します
 * 問い合わせ等のフォーム（返信なし）
     * [コチラ](https://forms.gle/2XeFjuFtCy8xAZ7x5)
 * その他の公開物
-    * [コチラ](https://4e9e4623.github.io/docs/)から
+    * [コチラ](https://4e9e4623.github.io/0x38docs/)から
 
 
 ## 使用報告について
